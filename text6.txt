@@ -1,1 +1,1 @@
-text6 is modified
+text6 is modified by branch2 
