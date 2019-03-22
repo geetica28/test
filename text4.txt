@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hellooo this is text 4
 Now Modified
+=======
+ checking for new branch hellooo this is text 4
+>>>>>>> 05402a172717a0251122ef08fd62071d3204e9bc
